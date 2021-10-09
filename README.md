@@ -4,8 +4,9 @@
 
 
 ### Project Lombok
-[![IMAGE ALT TEXT HERE](https://github.com/saksham2105/lombok/blob/main/feature-image-lombok.png)
+![IMAGE ALT TEXT HERE](https://github.com/saksham2105/lombok/blob/main/feature-image-lombok.png)
 
+----
 
 #### Annotations
 * @Setter -> For generating Setter Boilerplate Code for Fields (Applicable on class as well field level)
