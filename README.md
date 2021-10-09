@@ -4,7 +4,7 @@
 
 
 ### Project Lombok
-[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/boER86GimaA/maxresdefault.jpg?time=1626516600000&sqp=CPjYyocG&rs=AOn4CLBYKua1RSb3frl-WficrNSEyPreWw)]
+[![IMAGE ALT TEXT HERE](https://github.com/saksham2105/lombok/blob/main/feature-image-lombok.png)]
 
 ----
 
