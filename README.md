@@ -4,7 +4,7 @@
 
 
 ### Project Lombok
-[![IMAGE ALT TEXT HERE](https://github.com/saksham2105/lombok/blob/main/feature-image-lombok.png)]
+[![IMAGE ALT TEXT HERE](<img src="https://github.com/saksham2105/lombok/blob/main/feature-image-lombok.png" width="100" height="100">)
 
 ----
 
