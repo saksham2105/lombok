@@ -20,7 +20,7 @@
 
 #### Clone
 
-- Clone this repo to your local machine
+- Clone this repo to your local machine.
 
 ---
 ## Features 📋
